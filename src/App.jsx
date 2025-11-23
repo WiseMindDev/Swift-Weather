@@ -43,7 +43,7 @@ function App() {
       <div className="background"></div>
       <div className="content">
         <header className="header">
-          <h1 className="title">SwiftWeather</h1>
+          <h1 className="title">Swift Weather</h1>
           <SearchBar onSearch={handleSearch} />
         </header>
 
